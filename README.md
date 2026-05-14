@@ -16,7 +16,7 @@ I am a graduate student passionate about AI, machine learning, and data analytic
 ### Tech Stack
 **Languages:** Python, SQL, R, C++
 
-**Packages:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Streamlit, Tidyverse, ggplot2, dplyr
+**Packages:** Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, Matplotlib, Streamlit, Tidyverse, ggplot2, dplyr
 
 **Tools:** Git, LaTex
 
