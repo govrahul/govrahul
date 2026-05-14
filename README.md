@@ -24,6 +24,7 @@ I am a graduate student passionate about AI, machine learning, and data analytic
 
 ### Projects
 **College Basketball Game Predictor:** https://github.com/govrahul/cbb_game_predictor
+
 **NFL Fourth Down Decision Maker:** https://github.com/govrahul/nfl_fourth_down_analyzer
 
 ---
