@@ -3,7 +3,7 @@
 ### Master's of Engineering Student in Artificial Intelligence for Product Innovation
 📍 Duke University | Expected Graduation: August, 2027
 
-I am a graduate student passionate about AI, machine learning, and data analytics. I completed a BSE at the University of Michigan in Data Science, and am sharpening my skills for artificial intelligence. I am passionate about connecting data science and machine learning to real-world applications, primarily in sports.
+I am a graduate student passionate about AI, machine learning, and data analytics. I completed a BSE at the University of Michigan in Data Science, and am sharpening my skills for artificial intelligence. I am enthusiastic about connecting data science and machine learning to real-world applications, primarily in sports.
 
 **Key Coursework:**
 - Database Management Systems
