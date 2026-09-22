@@ -7,6 +7,8 @@ I am a graduate student passionate about AI, machine learning, and data analytic
 
 **Key Coursework:**
 - Database Management Systems
+- Explainable AI
+- Optimization in Practice
 - Introduction to Machine Learning
 - Data Structures and Algorithms
 - Applied Regression Analysis
