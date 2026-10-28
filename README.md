@@ -32,7 +32,7 @@ I am a graduate student passionate about AI, machine learning, and data analytic
 ---
 
 ### Connect With Me
-<a href="rahul.govil@duke.edu">
+<a href="rgovil405@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/govrahul" target="_blank">
